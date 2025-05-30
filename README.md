@@ -1,9 +1,11 @@
 # Airline_Reservation_System_JAVA
 Airline Reservattion System is one of my University projects. I have done it while pursuing my CSE110 or Object Oriented Programming course.
+
 We have tried to develop an Airline Reservation System as our 
 final Java project. Though a real life system includes so many 
 features, we are here to demonstrate our core Java 
 understanding.  
+
 The source code is easy to understand as we have given 
 comments where necessary. Provided the reason behind any 
 implementation as much as possible. 
